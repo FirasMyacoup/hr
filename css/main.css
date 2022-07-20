@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(233, 208, 208);
+}
+*
+{
+box-sizing: border-box;
+}
+
+nav{
+
+background: #e6ccb2;
+width: 100%;
+height: 70px;
+margin: 5px 0px;
+padding: 10px 15px;
+position: fixed;
+
+}
+main{
+
+width: 100%;
+height: 100px;
+margin: 5px 0px;
+padding-top: 70px;
+}
+footer{
+background: gray;
+width: 100%;
+height: 60px;
+margin: 5px 0px;
+padding: 10px;
+float: bottom;
+
+}
+
+.left
+{
+float: left;
+height: 30px;
+}
+
+.right
+{
+float: right;
+padding: 10px 5px;
+
+}
+
+.right a
+{
+margin-right: 15px;
+font-size: 20px;
+text-decoration: none;
+color: black;
+
+}
+.right a:hover
+{
+color: green;
+font-size: 23px;
+}
+
+.left img
+{
+width: 23%;
+}
+footer div
+{
+text-align: center;
+
+}
+p{
+    text-align: center;
+    
+    
+    
+
+}
